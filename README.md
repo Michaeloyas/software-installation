@@ -29,16 +29,12 @@ You'll verify that **Mozilla Firefox** isn't installed on your machine, and that
 1.  Click the **Search icon** in the bottom-left of the taskbar and start typing "Apps & Features" to search.
 2.  Click **"Apps & Features"** (as shown below) or right-click on the **Start icon**, and click on **"Apps & Features"** at the top of the menu.
 
-<br />
-<img src="https://cdn-images-1.medium.com/max/1200/1*aBXvhEPVza3TiRMMV6l77Q.png" width="600" alt="screenshot of interface"/>
-<br />
+![Download Firefox Installer](https://cdn-images-1.medium.com/max/1200/1*aBXvhEPVza3TiRMMV6l77Q.png)
 
-  
+
 This will bring up the Apps & Features window, which shows a list of every program that's installed on the computer.*
 
-<br />
-<img src="https://cdn-images-1.medium.com/max/1200/1*PaS65AC34HgvkmuiPBbZuA.png" width="600" alt="screenshot of interface"/>
-<br />
+![Download Firefox Installer](https://cdn-images-1.medium.com/max/1200/1*PaS65AC34HgvkmuiPBbZuA.png)
 
 
 ### Linux OS
@@ -103,6 +99,10 @@ You can view repositories as servers that act as central storage locations for p
     ```bash
     sudo apt-get install -y firefox-esr
     ```
+
+![Download Firefox Installer](https://cdn-images-1.medium.com/max/1200/1*3jl20ZwMunqIlUlyCN29mg.png)
+
+    
     You'll see that the status is "installed," indicating that the process was completed!
 
 ### Windows OS
@@ -111,10 +111,13 @@ You can view repositories as servers that act as central storage locations for p
     [https://www.mozilla.org/en-US/firefox/new/](https://www.mozilla.org/en-US/firefox/new/)
 2.  From this page, click the **"Download"** link to download the installer.
 
-    ![Download Firefox Installer](https://via.placeholder.com/600x300?text=Mozilla+Firefox+Download+Page)
+    ![Download Firefox Installer](https://cdn-images-1.medium.com/max/1200/1*zTxCUdjcw_FnjLgw4tzVag.png)
 
 3.  Once the download finishes, check for the downloaded file in the **"Download"** directory on your computer and double-click on it. This launches the installer and starts the installation process.
 4.  Click **"Yes"** if Windows asks if you wish to install it, and the installer should open and begin.
+
+    ![Download Firefox Installer](https://cdn-images-1.medium.com/max/1200/1*UumnvRMmDlZfZXISgFlq_g.png)
+
 5.  Click **"Next"** through any options that appear during the installation process. Wait for this process to finish, and Mozilla will be installed. A shortcut to Firefox will be added to the desktop, and you can double-click it to open your newly installed browser.
 
 **Congratulations!** You've completed the installation of software using Windows and Linux. Next, you'll configure updates for software already installed on your machine.
@@ -139,6 +142,9 @@ You can view repositories as servers that act as central storage locations for p
     ```bash
     dpkg -s vlc
     ```
+
+    ![Download Firefox Installer](https://cdn-images-1.medium.com/max/1200/1*GVgPF_ahmIILB0OyMORfaA.png)
+    
     You'll see here that VLC has been updated to a newer version (3.0.17 was the newest at the time this screenshot was taken). Your version should be at least 3.0.17.
 
 ### Windows OS
@@ -149,17 +155,22 @@ With an old version of **VLC Media Player** already installed on the Windows com
     [https://www.videolan.org/vlc/download-windows.html](https://www.videolan.org/vlc/download-windows.html)
 2.  Click on the drop-down menu beside **"Download VLC"** and select **"Installer for 64bit version"** and wait for the installer to finish downloading.
 
-    ![Download VLC Installer for Windows](https://via.placeholder.com/600x300?text=VLC+Download+Page)
+    ![Download VLC Installer for Windows](https://cdn-images-1.medium.com/max/1200/1*paCggSgmC-pR_r6m7bZ1YQ.png)
 
 3.  Once done, click on the installer to open it from the **"Download"** directory.
 4.  Once the installer opens, choose whichever language you're comfortable with, then click **"Next"** to begin the process.
-5.  Choose **"Upgrade VLC using previous settings (recommended)"** and then click **"Next"**. A progress bar appears and the upgrade process begins.
+5.  Choose **"Upgrade VLC using previous settings (recommended)"** and then click **"Next"**. A progress bar appears, and the upgrade process begins.
 
-    ![VLC Upgrade Options](https://via.placeholder.com/600x300?text=VLC+Upgrade+Prompt)
+    ![VLC Upgrade Options](https://cdn-images-1.medium.com/max/1200/1*WOFEGTN7vQFz4UMGS1Cp-w.png)
 
 6.  When the process is finished, a confirmation message will appear. Uncheck the option to run VLC, then click **"Finish"** to close the installer.
-7.  Reopen the **"Apps & Features"** window and you'll see that VLC is now at the latest version.
 
+    ![VLC Upgrade Options](https://cdn-images-1.medium.com/max/1200/1*5C9nbSUKR9RJBCbQSMwnhA.png)
+
+
+7.  Reopen the **"Apps & Features"** window, and you'll see that VLC is now at the latest version.
+
+    ![VLC Upgrade Options](https://cdn-images-1.medium.com/max/1200/1*vpzFEXQdNLVAnHbwZqOREg.png)
 ---
 
 ## Uninstalling Software: GIMP
@@ -195,12 +206,16 @@ Uninstalling a program on Windows is a straightforward process.
 
 1.  Navigate back to **"Apps & Features"** and right-click on the program you want to remove (i.e., GIMP). A single-item dropdown menu should appear:
 
-    ![Uninstall GIMP on Windows](https://via.placeholder.com/600x300?text=Uninstall+GIMP+Option)
+    ![Uninstall GIMP on Windows](https://cdn-images-1.medium.com/max/1200/1*mUi8I0LGS4T48FLU3Zdo4Q.png)
 
 2.  Click on the **"Uninstall"** option in the dropdown. A confirmation menu will appear, asking if you're sure you want to proceed.
 3.  Click **"Yes"** and the uninstallation process will begin.
-4.  When this process finishes, a confirmation menu will appear. Clicking **"OK"** on that menu will close it, and GIMP should no longer appear on the list of installed programs. This completes the uninstallation process.
 
+    ![Uninstall GIMP on Windows](https://cdn-images-1.medium.com/max/1200/1*62MPk7WSh1gxTLtXLj8Sjw.png)
+
+5.  When this process finishes, a confirmation menu will appear. Clicking **"OK"** on that menu will close it, and GIMP should no longer appear on the list of installed programs. This completes the uninstallation process.
+
+    ![Uninstall GIMP on Windows](https://cdn-images-1.medium.com/max/1200/1*u-L3mD-VUlWVmWooFI1f5g.png)
 ---
 
 ## Summary
