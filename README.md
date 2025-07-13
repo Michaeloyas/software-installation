@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This brief exercise teaches you how to perform basic software maintenance on **Linux** and **Windows** machines. This includes **installing** new software for the first time, **updating** existing software to the newest version, and **uninstalling** software that's no longer needed. All of these tasks are very common in the world of IT and IT support.
+This brief exercise teaches you how to perform basic software maintenance on **Linux** and **Windows** machines. This includes **installing** new software for the first time, **updating** existing software to the latest version, and **uninstalling** software that's no longer needed. All of these tasks are very common in the IT and IT support world.
 
 ---
 
@@ -22,7 +22,7 @@ There are three key learning objectives for this exercise:
 
 The first step is to verify the initial software setup, or "configuration," of programs on your machines. It's important to know how to check for this information.
 
-You'll verify that **Mozilla Firefox** isn't installed on your machine, and that both **GIMP** and **VLC Media Player** (version 3.0.8, in this example) are installed. These can be any software in your case.
+You'll verify that **Mozilla Firefox** isn't installed on your machine, and that both **GIMP** and **VLC Media Player** (version 3.0.8, in this example) are installed. These can be any software, in your case.
 
 ### Windows OS
 
@@ -103,7 +103,7 @@ You can view repositories as servers that act as central storage locations for p
     ```bash
     sudo apt-get install -y firefox-esr
     ```
-    You'll see that the status says "installed," which means that the process was successfully completed!
+    You'll see that the status is "installed," indicating that the process was completed!
 
 ### Windows OS
 
